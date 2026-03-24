@@ -5,7 +5,7 @@
 
 
 
-- 🔭 Eu estou atualmente trabalhando IFsul Câmpus Pelotas.
+- 🔭 Eu estou atualmente trabalhando em.
 - 🌱 Eu atualmente estudo no Curso Superior de Tecnologia em Sistemas para Internet, atualmente no 4 semestre de 6 semestres.
 - 👯 Atualmente estou em busca de uma primeira oportunidade de trabalho como desenvolvedor!.
 - 📚 Tenho conhecimentos em Java,C,PHP,JavaScript,CSS,HTML,PostgreSQL,MariaDB.
